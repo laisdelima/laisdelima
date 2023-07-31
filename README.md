@@ -7,5 +7,4 @@
 </div><br>
 
 - 🙋‍♀️ My name is Laís, I'm 30 and I'm currently transitioning from Psychology into Web Development;
-- 📔 I’m currently transitioning from Psychology into Web Development;
 - 📫 How to reach me: laispsico92@gmail.com
